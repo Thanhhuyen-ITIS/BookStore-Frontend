@@ -1,4 +1,5 @@
-# front
+# BookStore - frontend
+
 
 ## Project setup
 ```
